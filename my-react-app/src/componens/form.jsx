@@ -56,6 +56,7 @@
 
 
 // q:-
+import "./form.css"
 import { useState } from "react";
 
 export default function Studentfrorm(){

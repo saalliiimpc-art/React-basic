@@ -1,8 +1,9 @@
-import Studentfrorm from "./componens/form";
+
+import Practice from "./componens/practice";
 export default function App() {
   return (
     <div>
-      <Studentfrorm />
+      <Practice />
     </div>
   );
 }
